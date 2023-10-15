@@ -1,0 +1,14 @@
+{
+    "name": "PlayerData",
+    "tree": {
+      "$className": "DataModel",
+        
+      "ServerStorage": {
+        "$className": "ServerStorage",
+
+        "PlayerModule": {
+            "$path": "src"
+        }
+      }
+    }
+  }
